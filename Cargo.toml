@@ -3,5 +3,9 @@ name = "tuple-unwrap"
 version = "0.1.0"
 authors = ["Nick Cameron <nrc@ncameron.org>"]
 edition = "2018"
+description = "Conversion trait for 1-tuples"
+license = "Apache-2.0/MIT"
+repository = "https://github.com/nrc/tuple-unwrap"
+
 
 [dependencies]
